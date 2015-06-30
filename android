@@ -1,3 +1,7 @@
+其他人整理的：
+https://github.com/Trinea/android-open-project
+https://github.com/bboyfeiyu/android-tech-frontier
+
 View相关
 
 一, 浮动窗
@@ -11,9 +15,6 @@ View相关
 
 1.square/leakcanary
 源码地址：https://github.com/square/leakcanary
-
-其他人整理的：
-https://github.com/Trinea/android-open-project
 
 二，MVP
 https://github.com/antoniolg/androidmvp

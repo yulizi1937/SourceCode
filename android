@@ -1,8 +1,8 @@
-其他人整理的：
+# 其他人整理的 #
 https://github.com/Trinea/android-open-project    
 https://github.com/bboyfeiyu/android-tech-frontier
 ===============
-View相关
+# View相关 #
 
 一, 浮动窗
 
@@ -12,7 +12,7 @@ View相关
 ======================
 优化相关
 
-一，优化工具
+## 一，优化工具 ##
 
 1.square/leakcanary
 源码地址：https://github.com/square/leakcanary

@@ -1,8 +1,9 @@
 ###其他人整理的###
-https://github.com/Trinea/android-open-project    
-https://github.com/bboyfeiyu/android-tech-frontier
-===============
-# View相关 #
+-   https://github.com/Trinea/android-open-project
+-   https://github.com/bboyfeiyu/android-tech-frontier
+
+-----------
+###View相关###
 
 一, 浮动窗
 

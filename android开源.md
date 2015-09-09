@@ -28,6 +28,11 @@ https://github.com/daimajia/AndroidSwipeLayout
 https://github.com/Frank-Zhu/AndroidRecyclerViewDemo
 
 -----------
+#动画相关#
+-   RecyclerViewItemAnimatiors 
+https://github.com/gabrielemariotti/RecyclerViewItemAnimators
+
+-----------
 #优化相关#
 
 ## 一，优化工具 ##

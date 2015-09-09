@@ -29,7 +29,7 @@ https://github.com/Frank-Zhu/AndroidRecyclerViewDemo
 
 -----------
 #动画相关#
--   RecyclerViewItemAnimatiors 
+-   RecyclerViewItemAnimatiors  
 https://github.com/gabrielemariotti/RecyclerViewItemAnimators
 
 -----------

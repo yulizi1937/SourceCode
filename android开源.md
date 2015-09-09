@@ -23,6 +23,10 @@ https://github.com/Frank-Zhu/PullZoomView
 -   滑动ListItem等动画  
 https://github.com/daimajia/AndroidSwipeLayout  
 
+##五，RecyclerView##
+-   RecyclerView的demo，一些使用方法  
+https://github.com/Frank-Zhu/AndroidRecyclerViewDemo
+
 -----------
 #优化相关#
 

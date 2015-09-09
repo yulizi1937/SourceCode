@@ -1,5 +1,6 @@
 #其他人整理的#
--   https://github.com/Trinea/android-open-project
+-   Trinea大神收集的  
+https://github.com/Trinea/android-open-project
 -   https://github.com/bboyfeiyu/android-tech-frontier
 
 -----------
@@ -21,8 +22,6 @@ https://github.com/Frank-Zhu/PullZoomView
 ##四，SwipeLayout##
 -   滑动ListItem等动画  
 https://github.com/daimajia/AndroidSwipeLayout  
-![Alt text]()
-
 
 -----------
 #优化相关#

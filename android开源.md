@@ -18,7 +18,7 @@ https://github.com/frakbot/JumpingBeans
 -   下拉放大的ListView  
 https://github.com/Frank-Zhu/PullZoomView
 
-======================
+-----------
 #优化相关#
 
 ## 一，优化工具 ##
@@ -26,7 +26,6 @@ https://github.com/Frank-Zhu/PullZoomView
 -   square/leakcanary  
 https://github.com/square/leakcanary
 
----------------------------------------------
 ##二，MVP##
 -   https://github.com/antoniolg/androidmvp  
 http://pan.baidu.com/s/1jUrwU

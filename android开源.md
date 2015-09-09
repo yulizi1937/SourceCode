@@ -11,7 +11,7 @@
 http://pan.baidu.com/s/16S7mu
 
 ##二, TextView##
--   实现跳动效果
+-   实现跳动效果   
 https://github.com/frakbot/JumpingBeans
 
 ##三，ListView##
@@ -23,16 +23,16 @@ https://github.com/Frank-Zhu/PullZoomView
 
 ## 一，优化工具 ##
 
--   square/leakcanary
+-   square/leakcanary  
 https://github.com/square/leakcanary
 
 ---------------------------------------------
 ##二，MVP##
--   https://github.com/antoniolg/androidmvp
+-   https://github.com/antoniolg/androidmvp  
 http://pan.baidu.com/s/1jUrwU
 
 ##三，图片加载库##
--   glide 
+-   glide  
 https://github.com/bumptech/glide
 
 ##四，日志##

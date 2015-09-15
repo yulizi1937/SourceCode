@@ -68,6 +68,10 @@ https://github.com/bumptech/glide
 -   alibaba   
 https://github.com/alibaba/AndFix
 
+##七、插件化
+-   Dynamic-load-apk   
+https://github.com/singwhatiwanna/dynamic-load-apk 
+
 
 -----------
 #公司开源#

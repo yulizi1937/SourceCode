@@ -58,6 +58,11 @@ https://github.com/bumptech/glide
 ##五，startActivity封装##
 -   https://github.com/clayallsopp/routable-android
 
+##六，HotFix
+-   alibaba
+https://github.com/alibaba/AndFix
+
+
 -----------
 #公司开源#
 

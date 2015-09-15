@@ -26,9 +26,11 @@ https://github.com/daimajia/AndroidSwipeLayout
 ##五，RecyclerView
 -   RecyclerView的demo，一些使用方法  
 https://github.com/Frank-Zhu/AndroidRecyclerViewDemo
+
 -   头部滑动隐藏、显示的  
 https://github.com/timehop/sticky-headers-recyclerview
--   RecyclerView的动画
+
+-   RecyclerView的动画  
 https://github.com/wasabeef/recyclerview-animators
 
 ##六，EmotionKeyBoard 

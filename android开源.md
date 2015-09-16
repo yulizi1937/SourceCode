@@ -72,6 +72,9 @@ https://github.com/alibaba/AndFix
 -   Dynamic-load-apk   
 https://github.com/singwhatiwanna/dynamic-load-apk 
 
+-   360出品DroidPlugin   
+https://github.com/Qihoo360/DroidPlugin
+
 
 -----------
 #公司开源#

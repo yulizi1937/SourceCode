@@ -75,6 +75,11 @@ https://github.com/singwhatiwanna/dynamic-load-apk
 -   360出品DroidPlugin   
 https://github.com/Qihoo360/DroidPlugin
 
+-----------
+
+#框架#
+-   butterknife   
+https://github.com/JakeWharton/butterknife
 
 -----------
 #公司开源#

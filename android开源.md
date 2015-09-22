@@ -1,7 +1,9 @@
 #其他人整理的#
--   Trinea大神收集的  
+-   Trinea大神收集的   
 https://github.com/Trinea/android-open-project
+
 -   https://github.com/bboyfeiyu/android-tech-frontier
+
 
 -----------
 #View相关
@@ -94,5 +96,14 @@ https://code.facebook.com/
 #项目Demo#
 -   v2ex   
 https://github.com/taoliuh/v2ex
+
+----------
+#牛人#
+-   https://github.com/trinea
+-   https://github.com/halzhang
+-   https://github.com/daimajia
+-   https://github.com/stormzhang
+
+
 
 

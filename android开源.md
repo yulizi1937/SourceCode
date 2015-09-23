@@ -39,6 +39,14 @@ https://github.com/wasabeef/recyclerview-animators
 -   流畅切换表情/输入法的layout  
 https://github.com/cpoopc/SmoothEmotionKeyBoard
 
+##七，ActionBar
+-   ActionBarSherlock   
+https://github.com/JakeWharton/ActionBarSherlock
+
+##八，ViewPagerIndicator
+-   https://github.com/JakeWharton/ViewPagerIndicator
+-   
+
 -----------
 #动画相关#
 -   RecyclerViewItemAnimatiors  
@@ -56,11 +64,11 @@ https://github.com/square/leakcanary
 -   https://github.com/antoniolg/androidmvp  
 http://pan.baidu.com/s/1jUrwU
 
-##三，图片加载库##
+##三，图片加载库
 -   glide  
 https://github.com/bumptech/glide
 
-##四，日志##
+##四，日志
 -   https://github.com/JakeWharton/timber
 
 ##五，startActivity封装##
@@ -82,6 +90,17 @@ https://github.com/Qihoo360/DroidPlugin
 #框架#
 -   butterknife   
 https://github.com/JakeWharton/butterknife
+
+-   dagger依赖注入框架   
+https://github.com/square/dagger
+
+-   Retrofit   
+Type-safe HTTP client for Android and Java by Square, Inc.      
+https://github.com/square/retrofit
+
+-   moshi   
+Moshi is a modern JSON library for Android and Java. 
+https://github.com/square/moshi
 
 -----------
 #公司开源#

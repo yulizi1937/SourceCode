@@ -21,6 +21,12 @@ https://github.com/frakbot/JumpingBeans
 -   下拉放大的ListView  
 https://github.com/Frank-Zhu/PullZoomView
 
+-   FloatingGroupExpandableListView，带悬浮的ExpanableListView
+https://github.com/diegocarloslima/FloatingGroupExpandableListView
+
+-   AnimatedExpandableListView, 带动画
+https://github.com/idunnololz/AnimatedExpandableListView
+
 ##四，SwipeLayout
 -   滑动ListItem等动画  
 https://github.com/daimajia/AndroidSwipeLayout  

@@ -3,6 +3,9 @@
 https://github.com/Trinea/android-open-project
 
 -   https://github.com/bboyfeiyu/android-tech-frontier
+   
+-   https://github.com/snowdream/awesome-android
+
 
 
 -----------
@@ -26,6 +29,9 @@ https://github.com/diegocarloslima/FloatingGroupExpandableListView
 
 -   AnimatedExpandableListView, 带动画   
 https://github.com/idunnololz/AnimatedExpandableListView
+
+-   ListViewWithSofPpanel 模仿微信朋友圈列表中嵌套列表，点某个评论弹出键盘  
+https://github.com/nimengbo/ListViewWithSofPpanel
 
 ##四，SwipeLayout
 -   滑动ListItem等动画  
@@ -135,6 +141,9 @@ https://github.com/google/iosched
 -   https://github.com/daimajia
 -   https://github.com/stormzhang
 
+---------
+#Tips#
+-   https://github.com/tangqi92/Android-Tips
 
 
 

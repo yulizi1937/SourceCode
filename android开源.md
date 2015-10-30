@@ -51,12 +51,15 @@ https://github.com/JakeWharton/ActionBarSherlock
 
 ##八，ViewPagerIndicator
 -   https://github.com/JakeWharton/ViewPagerIndicator
--   
 
 -----------
 #动画相关#
 -   RecyclerViewItemAnimatiors  
 https://github.com/gabrielemariotti/RecyclerViewItemAnimators
+
+-   Drawerlayout, 带拉动效果的  
+https://github.com/mxn21/FlowingDrawer
+
 
 -----------
 #优化相关#

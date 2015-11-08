@@ -4,7 +4,9 @@ https://github.com/Trinea/android-open-project
 
 -   https://github.com/bboyfeiyu/android-tech-frontier
    
--   https://github.com/snowdream/awesome-android
+-   https://github.com/snowdream/awesome-android   
+
+-   https://bng86.gitbooks.io/android-third-party-/content/index.html
 
 
 

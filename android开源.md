@@ -215,7 +215,7 @@ https://github.com/tvbarthel/ChaseWhisplyProject
 -   2048  2048游戏
 https://github.com/tito/2048
 
--   Todo.txt  todo.txt的官方应用
+-   Todo.txt  todo.txt的官方应用   
 https://github.com/ginatrapani/todo.txt-android
 
 -   muzei 定时更换壁纸的应用   

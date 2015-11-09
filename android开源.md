@@ -1,12 +1,14 @@
 #其他人整理的#
--   Trinea大神收集的   
-https://github.com/Trinea/android-open-project
+-   https://github.com/Trinea/android-open-project
 
 -   https://github.com/bboyfeiyu/android-tech-frontier
    
 -   https://github.com/snowdream/awesome-android   
 
--   https://bng86.gitbooks.io/android-third-party-/content/index.html
+-   https://bng86.gitbooks.io/android-third-party-/content/index.html   
+
+-   http://www.23code.com/
+
 
 
 

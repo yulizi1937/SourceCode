@@ -143,8 +143,58 @@ https://github.com/taoliuh/v2ex
 -   Google I/O 2015   
 https://github.com/google/iosched
 
--   PocketHub   
+-   PocketHub Github客户端   
 https://github.com/pockethub/PocketHub
+
+-   f8 app   
+https://github.com/ParsePlatform/f8DeveloperConferenceApp
+
+-   Conversations   
+https://github.com/siacs/Conversations
+
+-   Bitocle   
+https://github.com/mthli/Bitocle
+
+-   Amphitheatre   
+https://github.com/jerrellmardis/Amphitheatre
+
+-   Antox   
+https://github.com/Astonex/Antox
+
+-   OpenKeychain   
+https://github.com/open-keychain/open-keychain
+
+-   Flock   
+https://github.com/WhisperSystems/Flock   
+
+-   OpenFlappyBird飞扬的小鸟   
+https://github.com/deano2390/OpenFlappyBird
+
+-   Faceless 社交软件   
+https://github.com/delight-im/Faceless
+
+-   photup 批量上传图片到Facebook   
+https://github.com/chrisbanes/photup
+
+-   philm 查看电影信息   
+https://github.com/chrisbanes/philm
+
+-   WordPress WordPress客户端   
+https://github.com/wordpress-mobile/WordPress-Android
+
+-   standup-timer 一个类似倒计时的应用，例如提醒,控制自己的演讲时间   
+https://github.com/jwood/standup-timer
+
+-   Opensudoku-android 一个数独游戏   
+http://code.google.com/p/opensudoku-android
+
+-   android_packages_apps_Calculator CyanogenMod系统的增强计算器  
+https://github.com/CyanogenMod/android_packages_apps_Calculator
+
+-   eoe-android eoe开源客户端   
+https://github.com/eoecn/android-app
+
+
 
 ----------
 #牛人#

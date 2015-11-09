@@ -194,7 +194,53 @@ https://github.com/CyanogenMod/android_packages_apps_Calculator
 -   eoe-android eoe开源客户端   
 https://github.com/eoecn/android-app
 
+-   gnucash-android 记账理财软件   
+https://github.com/codinguser/gnucash-android
 
+-   Notes 小米便签   
+https://github.com/MiCode/Notes
+
+-   FileExplorer 小米文件管理器   
+https://github.com/MiCode/FileExplorer
+
+-   SoundRecorder 小米录音机   
+https://github.com/MiCode/SoundRecorder
+
+-   Compass 小米指南针   
+https://github.com/MiCode/Compass
+
+-   ChaseWhisplyProject 大鬼的小游戏   
+https://github.com/tvbarthel/ChaseWhisplyProject   
+
+-   2048  2048游戏
+https://github.com/tito/2048
+
+-   Todo.txt  todo.txt的官方应用
+https://github.com/ginatrapani/todo.txt-android
+
+-   muzei 定时更换壁纸的应用   
+https://github.com/romannurik/muzei
+
+-   AntennaPod 播客管理软件   
+https://github.com/AntennaPod/AntennaPod
+
+-   weiciyuan 新浪简易客户端   
+https://github.com/qii/weiciyuan
+
+-   K-9 Mail 邮件客户端   
+https://github.com/k9mail/k-9
+
+-   FineDay 及简的天气应用   
+https://github.com/sd6352051/FineDay
+
+-   TextSecure 消息传递应用  
+https://github.com/WhisperSystems/Signal-Android
+
+-   ChatSecureAndroid 社交聊天   
+https://github.com/guardianproject/ChatSecureAndroid
+
+-   9GAG 笑话分享   
+https://github.com/stormzhang/9GAG
 
 ----------
 #牛人#

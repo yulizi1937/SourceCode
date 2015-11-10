@@ -60,6 +60,9 @@ https://github.com/wasabeef/recyclerview-animators
 -   流畅切换表情/输入法的layout  
 https://github.com/cpoopc/SmoothEmotionKeyBoard
 
+-   流畅切换表情/输入法的layout  
+https://github.com/w446108264/XhsEmoticonsKeyboard
+
 ##七，ActionBar
 -   ActionBarSherlock   
 https://github.com/JakeWharton/ActionBarSherlock

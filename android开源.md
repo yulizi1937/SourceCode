@@ -70,6 +70,11 @@ https://github.com/JakeWharton/ActionBarSherlock
 ##八，ViewPagerIndicator
 -   https://github.com/JakeWharton/ViewPagerIndicator
 
+##九，头像   
+-   类是qq组头像
+https://github.com/kongnanlive/android-combination-avatar
+
+
 -----------
 #动画相关#
 -   RecyclerViewItemAnimatiors  

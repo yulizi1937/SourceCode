@@ -68,7 +68,9 @@ https://github.com/w446108264/XhsEmoticonsKeyboard
 https://github.com/JakeWharton/ActionBarSherlock
 
 ##八，ViewPagerIndicator
--   https://github.com/JakeWharton/ViewPagerIndicator
+-   https://github.com/JakeWharton/ViewPagerIndicator  
+
+-   https://github.com/ongakuer/CircleIndicator
 
 ##九，头像   
 -   类是qq组头像

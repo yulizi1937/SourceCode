@@ -70,7 +70,10 @@ https://github.com/JakeWharton/ActionBarSherlock
 ##八，ViewPagerIndicator
 -   https://github.com/JakeWharton/ViewPagerIndicator  
 
--   https://github.com/ongakuer/CircleIndicator
+-   https://github.com/ongakuer/CircleIndicator    
+
+-   https://github.com/lightSky/InfiniteIndicator    
+
 
 ##九，头像   
 -   类是qq组头像

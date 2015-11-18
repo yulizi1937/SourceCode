@@ -122,6 +122,9 @@ https://github.com/singwhatiwanna/dynamic-load-apk
 -   360出品DroidPlugin   
 https://github.com/Qihoo360/DroidPlugin
 
+-   携程开源的实现Android App多apk插件化和动态加载，支持资源分包和热修复   
+https://github.com/CtripMobile/DynamicAPK
+
 -----------
 
 #框架#

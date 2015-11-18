@@ -142,6 +142,10 @@ https://github.com/square/retrofit
 Moshi is a modern JSON library for Android and Java. 
 https://github.com/square/moshi
 
+-   RoboSpice一个使你建立异步的长时间的运行任务异常轻松的一个网络库，在网络请求，缓存支持，和提供开箱即用的rest请求方面尤为强大   
+https://github.com/stephanenicolas/robospice
+
+
 -----------
 #公司开源#
 

@@ -262,6 +262,10 @@ https://github.com/guardianproject/ChatSecureAndroid
 -   9GAG 笑话分享   
 https://github.com/stormzhang/9GAG
 
+-   android平台的电子阅读器，在Google Play下载量50W+    
+https://github.com/JMQCode/iBooks
+
+
 ----------
 #牛人#
 -   https://github.com/trinea

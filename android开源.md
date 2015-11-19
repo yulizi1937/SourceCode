@@ -125,6 +125,15 @@ https://github.com/Qihoo360/DroidPlugin
 -   携程开源的实现Android App多apk插件化和动态加载，支持资源分包和热修复   
 https://github.com/CtripMobile/DynamicAPK
 
+##八、打包    
+-   Android资源混淆工具使用说明
+https://github.com/shwenzhang/AndResGuard   
+
+##九、AndroidStudio    
+-   AndroidStudio资源文件分组    
+https://github.com/dmytrodanylyk/folding-plugin
+
+
 -----------
 
 #框架#

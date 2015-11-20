@@ -115,6 +115,9 @@ https://github.com/bumptech/glide
 -   alibaba   
 https://github.com/alibaba/AndFix
 
+-   AndroidHotFix/Android 代码热修复   
+https://github.com/bunnyblue/DroidFix
+
 ##七、插件化
 -   Dynamic-load-apk   
 https://github.com/singwhatiwanna/dynamic-load-apk 

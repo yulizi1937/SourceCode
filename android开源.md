@@ -100,7 +100,19 @@ https://github.com/Diolor/Swipecards
 https://github.com/kikoso/Swipeable-Cards   
 ![a](https://camo.githubusercontent.com/85dadfe3ce0f16d7ae485a39f0ccad308736af33/68747470733a2f2f7261772e6769746875622e636f6d2f6b696b6f736f2f416e6454696e6465722f6d61737465722f6172742f63617074757261312e706e67)   
 
+##十一，录制视频
+-   VCameraDemo   
+微信小视频+秒拍   
+https://github.com/motianhuo/VCameraDemo   
+![a](https://camo.githubusercontent.com/68b7a1d35aa64ecd13594d5ae5d0c584b3982f1f/687474703a2f2f61312e656f65616e64726f69642e636f6d2f6174746163686d656e742f666f72756d2f3230313530372f31352f3136303934316a397a74627878676478717778626e742e676966)
 
+-   javacv   
+Java interface to OpenCV and more   
+https://github.com/bytedeco/javacv
+
+-   RecordVideoDemo   
+仿微信小视频录制，基于GitHub上的javacv   
+https://github.com/szitguy/RecordVideoDemo   
 
 -----------
 #动画相关#

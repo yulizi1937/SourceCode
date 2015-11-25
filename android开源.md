@@ -50,6 +50,9 @@ https://github.com/daimajia/AndroidSwipeLayout
 -   RecyclerView的demo，一些使用方法  
 https://github.com/Frank-Zhu/AndroidRecyclerViewDemo
 
+-   RecyclerView Playground,自定义RecyclerView,FixedGridLayoutManager    
+https://github.com/devunwired/recyclerview-playground
+
 -   头部滑动隐藏、显示的  
 https://github.com/timehop/sticky-headers-recyclerview
 

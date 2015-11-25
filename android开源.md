@@ -51,7 +51,8 @@ https://github.com/daimajia/AndroidSwipeLayout
 https://github.com/Frank-Zhu/AndroidRecyclerViewDemo
 
 -   RecyclerView Playground,自定义RecyclerView,FixedGridLayoutManager    
-https://github.com/devunwired/recyclerview-playground
+https://github.com/devunwired/recyclerview-playground     
+附带视频讲解 http://v.youku.com/v_show/id_XMTM5MzQ3ODE0NA==.html?f=23088492     
 
 -   头部滑动隐藏、显示的  
 https://github.com/timehop/sticky-headers-recyclerview

@@ -201,6 +201,9 @@ https://github.com/alibaba
 -   Facebook   
 https://code.facebook.com/
 
+-   BaiDu    
+https://github.com/baidu
+
 ----------
 #项目Demo#
 -   v2ex   

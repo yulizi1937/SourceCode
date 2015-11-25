@@ -83,6 +83,24 @@ https://github.com/JakeWharton/ActionBarSherlock
 -   类是qq组头像
 https://github.com/kongnanlive/android-combination-avatar
 
+##十，SwipCard
+-   AndroidSwipeableCardStack    
+https://github.com/wenchaojiang/AndroidSwipeableCardStack   
+![a](https://raw.githubusercontent.com/wenchaojiang/AndroidSwipeableCardStack/master/pics/image2.png)
+
+-   SlidingCard    
+https://github.com/mxn21/SlidingCard   
+![a](https://github.com/mxn21/SlidingCard/raw/master/screen.gif)
+
+-   Swipecards   
+https://github.com/Diolor/Swipecards   
+![a](https://github.com/Diolor/Swipecards/raw/master/screenshot.gif)
+
+-   Swipeable-Cards     
+https://github.com/kikoso/Swipeable-Cards   
+![a](https://camo.githubusercontent.com/85dadfe3ce0f16d7ae485a39f0ccad308736af33/68747470733a2f2f7261772e6769746875622e636f6d2f6b696b6f736f2f416e6454696e6465722f6d61737465722f6172742f63617074757261312e706e67)   
+
+
 
 -----------
 #动画相关#
@@ -91,7 +109,7 @@ https://github.com/gabrielemariotti/RecyclerViewItemAnimators
 
 -   Drawerlayout, 带拉动效果的  
 https://github.com/mxn21/FlowingDrawer
-
+![](https://camo.githubusercontent.com/85dadfe3ce0f16d7ae485a39f0ccad308736af33/68747470733a2f2f7261772e6769746875622e636f6d2f6b696b6f736f2f416e6454696e6465722f6d61737465722f6172742f63617074757261312e706e67)
 
 -----------
 #优化相关#

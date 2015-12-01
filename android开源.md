@@ -114,13 +114,20 @@ https://github.com/bytedeco/javacv
 仿微信小视频录制，基于GitHub上的javacv   
 https://github.com/szitguy/RecordVideoDemo   
 
+##十二，Dialog   
+DialogPlus    
+https://github.com/orhanobut/dialogplus    
+![a](https://github.com/nr4bt/dialogplus/raw/master/art/dialogplus.gif)
+![a](https://github.com/nr4bt/dialogplus/raw/master/art/dialogplusanim.gif)   
+
+
 -----------
 #动画相关#
--   RecyclerViewItemAnimatiors  
+-   RecyclerViewItemAnimatiors    
 https://github.com/gabrielemariotti/RecyclerViewItemAnimators
 
 -   Drawerlayout, 带拉动效果的  
-https://github.com/mxn21/FlowingDrawer
+https://github.com/mxn21/FlowingDrawer   
 ![](https://camo.githubusercontent.com/85dadfe3ce0f16d7ae485a39f0ccad308736af33/68747470733a2f2f7261772e6769746875622e636f6d2f6b696b6f736f2f416e6454696e6465722f6d61737465722f6172742f63617074757261312e706e67)
 
 -----------
